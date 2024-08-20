@@ -1,0 +1,19 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+# Classes
+names:
+  0: bench
+  1: book
+  2: bottle
+  3: bus
+  4: car
+  5: dining table
+  6: duy
+  7: image
+  8: light
+  9: person
+  10: potted plant
+  11: tie
+  12: whiteboard
