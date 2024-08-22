@@ -18,3 +18,6 @@ z = x[np.array([3, 3, -3, 8])]
 print(z)
 print(np.array([3, 3, 1, 8]))
 
+c = np.arange(20).shape
+print('c=',c)
+

@@ -3,7 +3,7 @@ import cv2
 
 # Open the default camera (index 0) if you include other like external webcam you can switch (1)
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 # Set the frame width to 640 pixels
 cap.set(3, 640)
